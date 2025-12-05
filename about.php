@@ -21,6 +21,12 @@
             {
                   echo "<p>". $i. "</p>";
             };
+
+
     ?>
+
+    <li><a href = "http://localhost:8000/">Home</a></li>
+    <li><a href = "http://localhost:8000/contact.php">Form</a></li>
+
 </body>
 </html>
